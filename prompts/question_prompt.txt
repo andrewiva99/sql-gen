@@ -1,0 +1,10 @@
+You are working with a SQLite database. You are given a SQL question.
+Your task is to rephrase the SQL question for better understanding.
+Pay attention to the structure of the tables, their columns, and their
+data types. Ask a question that clearly reflects what exactly you need
+to find in the data. You do not need to write the SQL query or answer
+the question. Just rephrase the original question or simply return it.
+
+Question: {question}
+
+Rephrased question:

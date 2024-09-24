@@ -1,0 +1,4 @@
+CONTEXT:
+{page_content}
+SQL QUERY:
+{sql}
